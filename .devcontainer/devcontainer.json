@@ -1,0 +1,12 @@
+{
+  "image": "golang:alpine3.17",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "aldijav.golangwithdidi",
+        "neonxp.gotools",
+        "golang.go"
+      ]
+    }
+  }
+}
